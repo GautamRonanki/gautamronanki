@@ -1,4 +1,4 @@
 # Gautam Ronanki
 
 My personal portfolio!
-www.hautamronanki.ga
+www.gautamronanki.ga
