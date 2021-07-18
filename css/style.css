@@ -8138,7 +8138,7 @@ body {
   font-size: 16px;
   line-height: 1.8;
   font-weight: 400;
-  color: #999999; }
+  color: #757575; }
   body.menu-show {
     overflow: hidden;
     position: fixed;
@@ -8738,7 +8738,8 @@ h1, h2, h3, h4, h5,
   padding: 4em 0 !important; }
   .ftco-partner .partner {
     display: block;
-    padding: 0 20px; }
+    padding: 0 20px;
+    cursor: default; }
     @media (max-width: 991.98px) {
       .ftco-partner .partner {
         padding: 0 70px;
@@ -8748,7 +8749,8 @@ h1, h2, h3, h4, h5,
   margin-bottom: 40px;
   padding: 2em;
   background: rgba(255, 255, 255, 0.1);
-  width: 100%; }
+  width: 100%;
+  cursor: default; }
   .services-1 .icon {
     display: block;
     margin-bottom: 30px; }
@@ -9191,7 +9193,7 @@ textarea.form-control {
     top: 0px;
     left: 0;
     font-size: 7vw;
-    color: rgb(236 240 255);
+    color: #e5eaff;
     z-index: -1;
     font-weight: 900; }
     .heading-section h1.big.big-2 {
@@ -9684,3 +9686,14 @@ textarea.form-control {
 	display: show;
 	}	
 }
+
+
+.lil{
+  color: red !important;
+}
+
+
+@media (min-width: 767.98px){
+.partner{
+  margin-top: 30px;
+} }
